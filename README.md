@@ -11,7 +11,7 @@
 
 [Kerberos协议探索系列三委派篇](https://github.com/qsmmai/ADSec-and-RedTeam/blob/master/Kerberos%E5%8D%8F%E8%AE%AE%E6%8E%A2%E7%B4%A2%E7%B3%BB%E5%88%97%E4%B8%89%E5%A7%94%E6%B4%BE%E7%AF%87.md)
 
-[Kerberos委派之基于资源的约束委派](https://github.com/qsmmai/ADSec-and-RedTeam/blob/master/Kerberos_RBCD.md)
+[Kerberos_RBCD](https://github.com/qsmmai/ADSec-and-RedTeam/blob/master/Kerberos_RBCD.md)
 
 [Exchange与NTLMRelay](https://github.com/qsmmai/ADSec-and-RedTeam/blob/master/Exchange%2BNTLMRelay.md)
 
